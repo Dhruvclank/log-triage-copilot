@@ -1,0 +1,13 @@
+{
+  "name": "ai-log-copilot",
+  "version": "1.0.0",
+  "description": "AI-assisted log triage: classifies raw infra logs by severity and category, scored against a hand-labelled test set.",
+  "type": "module",
+  "main": "analyze.js",
+  "scripts": {
+    "start": "node analyze.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
