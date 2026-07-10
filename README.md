@@ -14,7 +14,7 @@ Most AI portfolio projects are a thin wrapper around a chat API: type a prompt, 
 
 ## Live demo
 
-There's a clickable results viewer here: `[add your live demo link once it's on Vercel]`. You can browse all 24 logs, filter to just the mismatches, and see exactly what the model got right and wrong.
+There's a clickable results viewer here: **[dhruvlal-portfolio.vercel.app/log-triage-demo](https://dhruvlal-portfolio.vercel.app/log-triage-demo/)**. You can browse all 24 logs, filter to just the mismatches, and see exactly what the model got right and wrong.
 
 ## How it works
 
